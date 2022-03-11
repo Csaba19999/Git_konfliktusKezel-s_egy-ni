@@ -1,0 +1,1 @@
+# Git_konfliktusKezel-s_egy-ni
